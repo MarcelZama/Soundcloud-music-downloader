@@ -28,7 +28,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pip install yt-dlp  
 
-&nbsp;&nbsp;&nbsp;Ensure ffmpeg is installed for audio conversion. You can install it via:  
+&nbsp;&nbsp;&nbsp;Ensure ffmpeg is installed for audio conversion. You can install it via(You might have to install an older version of ffmpeg):  
 
 &nbsp;&nbsp;&nbsp;"https://www.youtube.com/watch?v=JR36oH35Fgg"   
 
